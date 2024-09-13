@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(234, 228, 180); 
+    font-family:Fredoka, helvetica, arial, calibri;
+    margin:0px;
+    font-size: 1vw;
+
+}
+#logo{
+    margin:0px;
+    padding:8px;
+    font-family: "Fredoka", sans-serif;
+    box-shadow: 10px 10px 15px 5px rgb(226, 113, 113);
+    width: 20%;
+    border-radius: 40%;
+    text-shadow: 
+    1px 1px 0px rgb(127, 198, 236), /* Bottom-right shadow */
+    -1px 1px 0px rgb(127, 198, 236), /* Bottom-left shadow */
+    1px -1px 0px rgb(127, 198, 236), /* Top-right shadow */
+    -1px -1px 0px rgb(127, 198, 236)); /* Top-left shadow */
+}
+
+ul{
+    margin:0px;
+}
+
+body > header{
+    background-color: rgb(149, 211, 244);
+    color: rgb(255, 60, 30);
+    display: flex;
+    height: ;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+    
+#nav-ul{
+    display: flex;
+    
+}
+
+#nav-ul > li{
+    padding: 8px;
+    margin: 16px;
+
+}
+
+
+body > header > nav > ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 10%;
+}
+
+body > main article {
+    width: 80%;
+    margin: auto;
+}
+
+#main-content{
+    display: flex;
+    justify-content: space-around;
+}
+
+#main-content > div {
+    width: 80%;
+}
+
+#linkss a:visited{
+    color: blue;
+    text-decoration: none;
+}
+
+#congopic{
+    width: 70%;
+}
+
+
+
+}
+
+form{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#newsl{
+    text-align: center;
+}
+
+img{
+    border-radius: 0%; 
+}
+
+body > footer{
+    background-color: rgb(149, 211, 244);
+    color: rgb(255, 60, 30);
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+}
+
+#footer-ul{
+    display: flex;
+}
+
+#footer-ul > li{
+    padding: 2px;
+    margin: 8px;
+    color: blue;
+    list-style: none;
+    width: 80%;
+}
+
+body > header > nav > ul{
+    list-style: none;
+    text-decoration: none;
+}
+}
