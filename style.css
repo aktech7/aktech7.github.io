@@ -101,6 +101,11 @@ img{
     border-radius: 0%; 
 }
 
+#sidenote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
 body > footer{
     background-color: rgb(149, 211, 244);
     color: rgb(255, 60, 30);
