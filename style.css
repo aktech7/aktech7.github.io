@@ -10,7 +10,6 @@ body{
     padding:8px;
     font-family: "Fredoka", sans-serif;
     box-shadow: 10px 10px 15px 5px rgb(226, 113, 113);
-    width: 20%;
     border-radius: 40%;
     text-shadow: 
     1px 1px 0px rgb(127, 198, 236), /* Bottom-right shadow */
@@ -82,7 +81,9 @@ body > main article {
 }
 
 
-
+.header-link{
+    color: inherit;
+    text-decoration: none;
 }
 
 form{
